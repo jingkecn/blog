@@ -10,4 +10,5 @@
 
 - [如何在 Java 中實現「事件驅動架構」](https://github.com/jingkecn/blog/issues/2)
 - [How To: Implement Event-driven Architecture in Java](https://github.com/jingkecn/blog/issues/3)
-- [How to: Share Resource Dictionaries in .Net Libraries](https://github.com/jingkecn/blog/issues/4)
+- [How To: Share Resource Dictionaries in .Net Libraries](https://github.com/jingkecn/blog/issues/4)
+- [[C#] How To: Use `partial` Keyword To Improve Our Codebase](https://github.com/jingkecn/blog/issues/5)
